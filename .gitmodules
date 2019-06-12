@@ -1,6 +1,0 @@
-[submodule "notes__server"]
-	path = notes__server
-	url = https://github.com/belaarany/notes__server
-[submodule "kiskutya"]
-	path = kiskutya
-	url = https://github.com/Laradock/laradock.git

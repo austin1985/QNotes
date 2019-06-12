@@ -1,0 +1,3 @@
+[submodule "notes__server"]
+	path = notes__server
+	url = https://github.com/belaarany/notes__server

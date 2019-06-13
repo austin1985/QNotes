@@ -1,17 +1,20 @@
 <template>
   <div id="app">
-    
+    <NoteEditor/>
     <Notes />
   </div>
 </template>
 
 <script>
 import Notes from './components/components/Notes.vue'
+import NoteEditor from './components/components/NoteEditor.vue'
+
 
 export default {
   name: 'app',
   components: {
-    Notes
+    Notes,
+    NoteEditor
   }
 }
 </script>
